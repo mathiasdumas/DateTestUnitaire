@@ -1,0 +1,14 @@
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/bin/Debug/net8.0/DateTestUnitaire
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/bin/Debug/net8.0/DateTestUnitaire.deps.json
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/bin/Debug/net8.0/DateTestUnitaire.runtimeconfig.json
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/bin/Debug/net8.0/DateTestUnitaire.dll
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/bin/Debug/net8.0/DateTestUnitaire.pdb
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/DateTestUnitaire.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/DateTestUnitaire.AssemblyInfoInputs.cache
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/DateTestUnitaire.AssemblyInfo.cs
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/DateTestUnitaire.csproj.CoreCompileInputs.cache
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/DateTestUnitaire.dll
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/refint/DateTestUnitaire.dll
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/DateTestUnitaire.pdb
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/DateTestUnitaire.genruntimeconfig.cache
+/Users/barbara/Projects/DateTestUnitaire/DateTestUnitaire/obj/Debug/net8.0/ref/DateTestUnitaire.dll
